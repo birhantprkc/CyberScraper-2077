@@ -41,7 +41,7 @@ Check out our [YouTube video](https://www.youtube.com/watch?v=iATSd5Ijl4M) for a
 1. Clone this repository:
    ```bash
    git clone https://github.com/itsOwen/CyberScraper-2077.git
-   cd cyberscraper-2077
+   cd CyberScraper-2077
    ```
 
 2. Create and activate a virtual environment:
@@ -92,10 +92,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Got questions? Need support? Want to hire us for a gig?
+Got questions? Need support? Want to hire me for a gig?
 
 - 📧 Email: github.com/itsOwen
-- 🐦 Twitter: [@CyberScraper2077](https://github.com/itsOwen)
+- 🐦 Twitter: [@itsOwen](https://github.com/itsOwen)
 - 💬 Website: [Portfolio](https://github.com/itsOwen)
 
 ---
