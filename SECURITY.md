@@ -28,7 +28,7 @@ We take security vulnerabilities seriously. If you discover a security issue, pl
 
 1. **DO NOT** open a public GitHub issue.
 
-2. Send a detailed report to [github.com/itsOwen](https://github.com/itsOwen) with:
+2. Send a detailed report to the maintainer, [@itsOwen](https://github.com/itsOwen), with:
    - Description of the vulnerability
    - Steps to reproduce
    - Potential impact

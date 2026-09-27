@@ -415,7 +415,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Got questions? Need support? Want to hire me for a gig?
 
-- Email: github.com/itsOwen
 
 ## 🚨 Disclaimer
 
