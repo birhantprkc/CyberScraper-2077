@@ -415,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Got questions? Need support? Want to hire me for a gig?
 
+- GitHub: [open an issue](https://github.com/itsOwen/CyberScraper-2077/issues)
 
 ## 🚨 Disclaimer
 
